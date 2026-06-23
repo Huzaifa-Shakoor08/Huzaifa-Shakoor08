@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Huzaifa Shakoor 👋
 
-<!--
-**Huzaifa-Shakoor08/Huzaifa-Shakoor08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CS Student at PMAS-Arid Agriculture University, Rawalpindi  
+💻 Full Stack Developer | React.js & ASP.NET Web API  
+🌍 Based in Rawalpindi, Pakistan  
+🚀 Open to Freelance Projects & Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js, JavaScript, HTML, CSS
+
+**Backend**
+- ASP.NET Web API, C#, MVC .NET
+
+**Database**
+- SQL Server, Entity Framework Core
+
+**Tools**
+- Git, GitHub, Visual Studio Code, Postman
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🏥 Clinic Booking System | Doctor appointment booking web app with JWT auth | React, ASP.NET, SQL Server |
+
+---
+
+## 📊 GitHub Stats
+
+![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-Shakoor08&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Shakoor08&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: huzaifa@gmail.com
+- 💼 LinkedIn: coming soon
+- 💰 Upwork: coming soon
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
