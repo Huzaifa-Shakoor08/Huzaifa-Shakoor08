@@ -2,7 +2,7 @@
 
 🎓 Final Year CS Student at PMAS-Arid Agriculture University, Rawalpindi  
 💻 Full Stack Developer | React.js & ASP.NET Web API  
-🌍 Based in Rawalpindi, Pakistan  
+🌍 Based in Islamabad, Pakistan  
 🚀 Open to Freelance Projects & Opportunities
 
 ---
