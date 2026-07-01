@@ -41,9 +41,9 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: huzaifa@gmail.com
+- 📧 Email: huzaifashakoor08@gmail.com
 - 💼 LinkedIn: coming soon
-- 💰 Upwork: coming soon
+- 💰 Upwork: https://www.upwork.com/freelancers/~01419707829013daf4?mp_source=share
 
 ---
 
